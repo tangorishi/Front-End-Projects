@@ -45,7 +45,7 @@ const projects = [
         "img":"img/coming_soon.png",
         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat provident incidunt fuga, nihil ex aperiam, debitis minus a recusandae quia, blanditiis ad eius modi! Minima sunt dolor ut minus totam.",
         "github-link":"#",
-        "project-link":"Projects/myntra-clone/index.html"
+        "project-link":"#"
     }
 ]
 
